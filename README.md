@@ -8,3 +8,9 @@ Harmonogram odbioru odpadów (Gmina Lesznowola, zabudowa jednorodzinna) jako sub
   `webcal://raw.githubusercontent.com/graba/kalendarz-smieci/main/smieci.ics`
 
 Aktualizowane automatycznie raz w tygodniu, gdy gmina opublikuje nowy lub zmieniony harmonogram.
+
+## Ekran na lodówkę (Kindle)
+
+`index.html` – prosta strona pod przeglądarkę Kindle (GitHub Pages): duży napis z najbliższym odbiorem
+(„JUTRO” / „DZIŚ” na czarnym tle) i lista kolejnych terminów. Odświeża się co godzinę.
+Adres: https://graba.github.io/kalendarz-smieci/

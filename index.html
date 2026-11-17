@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Śmieci</title>
+<style>
+  /* Pisane pod stare WebKity w Kindle: bez flexboksa, bez ES6 */
+  html, body { margin: 0; padding: 0; background: #fff; color: #000; }
+  body { font-family: Georgia, "Times New Roman", serif; padding: 24px 28px; }
+  .label { font-size: 22px; letter-spacing: 3px; text-transform: uppercase; margin: 0 0 6px; }
+  .hero { border: 6px solid #000; padding: 18px 20px 22px; margin-bottom: 26px; }
+  .hero.today { background: #000; color: #fff; }
+  .hero .when { font-size: 30px; margin: 0 0 10px; }
+  .hero .what { font-size: 52px; font-weight: bold; line-height: 1.1; margin: 0; }
+  .hero .hint { font-size: 22px; margin: 14px 0 0; }
+  table { width: 100%; border-collapse: collapse; }
+  td { font-size: 28px; padding: 12px 4px; border-bottom: 2px solid #000; vertical-align: top; }
+  td.d { width: 36%; white-space: nowrap; }
+  td.f { font-weight: bold; }
+  .foot { font-size: 16px; margin-top: 18px; }
+  .err { font-size: 26px; }
+</style>
+</head>
+<body>
+<div id="app"><p class="err">Ładuję harmonogram…</p></div>
+<script>
+var DNI = ["niedziela", "poniedziałek", "wtorek", "środa", "czwartek", "piątek", "sobota"];
+var DNI_KR = ["nd", "pn", "wt", "śr", "cz", "pt", "sb"];
+var RELOAD_MS = 60 * 60 * 1000; // odśwież co godzinę
+
+function pad(n) { return (n < 10 ? "0" : "") + n; }
+function iso(d) { return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate()); }
+function parse(s) { var p = s.split("-"); return new Date(+p[0], +p[1] - 1, +p[2]); }
+function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;"); }
+
+function render(data) {
+  var byDay = {}, k, i;
+  for (k in data.terminy) {
+    if (!data.terminy.hasOwnProperty(k)) continue;
+    for (i = 0; i < data.terminy[k].length; i++) {
+      var day = data.terminy[k][i];
+      (byDay[day] = byDay[day] || []).push(k);
+    }
+  }
+  var now = new Date();
+  var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  var todayIso = iso(today);
+  var tomorrowIso = iso(new Date(today.getFullYear(), today.getMonth(), today.getDate() + 1));
+  // Po 9:00 dzisiejszy odbiór już minął – pokazuj od jutra
+  var fromIso = now.getHours() >= 9 ? tomorrowIso : todayIso;
+
+  var days = [];
+  for (k in byDay) if (byDay.hasOwnProperty(k) && k >= fromIso) days.push(k);
+  days.sort();
+
+  var h = "";
+  if (!days.length) {
+    h = '<p class="err">Brak kolejnych terminów.<br>Czekam na nowy harmonogram gminy.</p>';
+  } else {
+    var first = days[0], fd = parse(first);
+    var cls = "hero", when, hint;
+    if (first === todayIso) { cls += " today"; when = "DZIŚ · " + DNI[fd.getDay()]; hint = "Odbiór od 6:30"; }
+    else if (first === tomorrowIso) { cls += " today"; when = "JUTRO · " + DNI[fd.getDay()] + " " + fd.getDate() + "." + pad(fd.getMonth() + 1); hint = "Wystaw dziś wieczorem"; }
+    else { when = "Następny odbiór · " + DNI[fd.getDay()] + " " + fd.getDate() + "." + pad(fd.getMonth() + 1); hint = ""; }
+    h += '<div class="' + cls + '"><p class="when">' + esc(when) + '</p><p class="what">' +
+         esc(byDay[first].join(", ")) + '</p>' + (hint ? '<p class="hint">' + esc(hint) + '</p>' : '') + '</div>';
+    h += '<p class="label">Potem</p><table>';
+    for (i = 1; i < days.length && i <= 7; i++) {
+      var d = parse(days[i]);
+      h += '<tr><td class="d">' + DNI_KR[d.getDay()] + " " + d.getDate() + "." + pad(d.getMonth() + 1) +
+           '</td><td class="f">' + esc(byDay[days[i]].join(", ")) + '</td></tr>';
+    }
+    h += '</table>';
+  }
+  h += '<p class="foot">Harmonogram ' + esc(data.okres || "") + ' · odświeżono ' +
+       pad(now.getHours()) + ":" + pad(now.getMinutes()) + '</p>';
+  document.getElementById("app").innerHTML = h;
+}
+
+function load() {
+  var x = new XMLHttpRequest();
+  x.open("GET", "harmonogram.json?t=" + new Date().getTime(), true);
+  x.onreadystatechange = function () {
+    if (x.readyState !== 4) return;
+    if (x.status === 200) {
+      try { render(JSON.parse(x.responseText)); return; } catch (e) {}
+    }
+    document.getElementById("app").innerHTML = '<p class="err">Nie udało się pobrać harmonogramu. Spróbuję za godzinę.</p>';
+  };
+  x.send();
+}
+
+load();
+setTimeout(function () { location.reload(); }, RELOAD_MS);
+</script>
+</body>
+</html>
