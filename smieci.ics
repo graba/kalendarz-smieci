@@ -1,0 +1,2016 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//kalendarz-smieci//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Odbiór śmieci
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:smieci-20260401@kalendarz-smieci
+DTSTAMP:20260401T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260402@kalendarz-smieci
+DTSTAMP:20260402T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:🗑️ Odbiór: bio kuchenne\, bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne\, bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260404@kalendarz-smieci
+DTSTAMP:20260404T000000Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260408@kalendarz-smieci
+DTSTAMP:20260408T000000Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:🗑️ Odbiór: szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260411@kalendarz-smieci
+DTSTAMP:20260411T000000Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:🗑️ Odbiór: gabaryty
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: gabaryty
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260413@kalendarz-smieci
+DTSTAMP:20260413T000000Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260414@kalendarz-smieci
+DTSTAMP:20260414T000000Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260415@kalendarz-smieci
+DTSTAMP:20260415T000000Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260416@kalendarz-smieci
+DTSTAMP:20260416T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260420@kalendarz-smieci
+DTSTAMP:20260420T000000Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260421@kalendarz-smieci
+DTSTAMP:20260421T000000Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260425@kalendarz-smieci
+DTSTAMP:20260425T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:🗑️ Odbiór: tekstylia
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: tekstylia
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260427@kalendarz-smieci
+DTSTAMP:20260427T000000Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260428@kalendarz-smieci
+DTSTAMP:20260428T000000Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260429@kalendarz-smieci
+DTSTAMP:20260429T000000Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260430@kalendarz-smieci
+DTSTAMP:20260430T000000Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260504@kalendarz-smieci
+DTSTAMP:20260504T000000Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260505@kalendarz-smieci
+DTSTAMP:20260505T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260511@kalendarz-smieci
+DTSTAMP:20260511T000000Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260512@kalendarz-smieci
+DTSTAMP:20260512T000000Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260513@kalendarz-smieci
+DTSTAMP:20260513T000000Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa\, szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa\, szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260514@kalendarz-smieci
+DTSTAMP:20260514T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260518@kalendarz-smieci
+DTSTAMP:20260518T000000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260519@kalendarz-smieci
+DTSTAMP:20260519T000000Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260525@kalendarz-smieci
+DTSTAMP:20260525T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260526@kalendarz-smieci
+DTSTAMP:20260526T000000Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260527@kalendarz-smieci
+DTSTAMP:20260527T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260528@kalendarz-smieci
+DTSTAMP:20260528T000000Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260601@kalendarz-smieci
+DTSTAMP:20260601T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260602@kalendarz-smieci
+DTSTAMP:20260602T000000Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260608@kalendarz-smieci
+DTSTAMP:20260608T000000Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260609@kalendarz-smieci
+DTSTAMP:20260609T000000Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260610@kalendarz-smieci
+DTSTAMP:20260610T000000Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa\, szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa\, szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260611@kalendarz-smieci
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260615@kalendarz-smieci
+DTSTAMP:20260615T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260616@kalendarz-smieci
+DTSTAMP:20260616T000000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260622@kalendarz-smieci
+DTSTAMP:20260622T000000Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260623@kalendarz-smieci
+DTSTAMP:20260623T000000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260624@kalendarz-smieci
+DTSTAMP:20260624T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260629@kalendarz-smieci
+DTSTAMP:20260629T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260630@kalendarz-smieci
+DTSTAMP:20260630T000000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260706@kalendarz-smieci
+DTSTAMP:20260706T000000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260707@kalendarz-smieci
+DTSTAMP:20260707T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260708@kalendarz-smieci
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa\, szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa\, szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260709@kalendarz-smieci
+DTSTAMP:20260709T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260711@kalendarz-smieci
+DTSTAMP:20260711T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:🗑️ Odbiór: gabaryty
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: gabaryty
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260713@kalendarz-smieci
+DTSTAMP:20260713T000000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260714@kalendarz-smieci
+DTSTAMP:20260714T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260720@kalendarz-smieci
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260721@kalendarz-smieci
+DTSTAMP:20260721T000000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260722@kalendarz-smieci
+DTSTAMP:20260722T000000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260723@kalendarz-smieci
+DTSTAMP:20260723T000000Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260727@kalendarz-smieci
+DTSTAMP:20260727T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260728@kalendarz-smieci
+DTSTAMP:20260728T000000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260803@kalendarz-smieci
+DTSTAMP:20260803T000000Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260804@kalendarz-smieci
+DTSTAMP:20260804T000000Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260805@kalendarz-smieci
+DTSTAMP:20260805T000000Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260806@kalendarz-smieci
+DTSTAMP:20260806T000000Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260810@kalendarz-smieci
+DTSTAMP:20260810T000000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260811@kalendarz-smieci
+DTSTAMP:20260811T000000Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260812@kalendarz-smieci
+DTSTAMP:20260812T000000Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:🗑️ Odbiór: szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260817@kalendarz-smieci
+DTSTAMP:20260817T000000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260818@kalendarz-smieci
+DTSTAMP:20260818T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260819@kalendarz-smieci
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260820@kalendarz-smieci
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260824@kalendarz-smieci
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260825@kalendarz-smieci
+DTSTAMP:20260825T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260831@kalendarz-smieci
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260901@kalendarz-smieci
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260902@kalendarz-smieci
+DTSTAMP:20260902T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260903@kalendarz-smieci
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260907@kalendarz-smieci
+DTSTAMP:20260907T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260908@kalendarz-smieci
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260909@kalendarz-smieci
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🗑️ Odbiór: szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260914@kalendarz-smieci
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260915@kalendarz-smieci
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260916@kalendarz-smieci
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260917@kalendarz-smieci
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260919@kalendarz-smieci
+DTSTAMP:20260919T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🗑️ Odbiór: gabaryty
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: gabaryty
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260921@kalendarz-smieci
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260922@kalendarz-smieci
+DTSTAMP:20260922T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260928@kalendarz-smieci
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260929@kalendarz-smieci
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20260930@kalendarz-smieci
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261001@kalendarz-smieci
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261005@kalendarz-smieci
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261006@kalendarz-smieci
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261010@kalendarz-smieci
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:🗑️ Odbiór: tekstylia
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: tekstylia
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261012@kalendarz-smieci
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261013@kalendarz-smieci
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261014@kalendarz-smieci
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa\, szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa\, szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261015@kalendarz-smieci
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261019@kalendarz-smieci
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261020@kalendarz-smieci
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261026@kalendarz-smieci
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261027@kalendarz-smieci
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261028@kalendarz-smieci
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261029@kalendarz-smieci
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261102@kalendarz-smieci
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261103@kalendarz-smieci
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261107@kalendarz-smieci
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🗑️ Odbiór: gabaryty
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: gabaryty
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261109@kalendarz-smieci
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261110@kalendarz-smieci
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261112@kalendarz-smieci
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261114@kalendarz-smieci
+DTSTAMP:20261114T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa\, szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa\, szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261116@kalendarz-smieci
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261117@kalendarz-smieci
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261123@kalendarz-smieci
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261124@kalendarz-smieci
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261125@kalendarz-smieci
+DTSTAMP:20261125T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261126@kalendarz-smieci
+DTSTAMP:20261126T000000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🗑️ Odbiór: bio zielone
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio zielone
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261130@kalendarz-smieci
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261208@kalendarz-smieci
+DTSTAMP:20261208T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261209@kalendarz-smieci
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa\, szkło
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa\, szkło
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261214@kalendarz-smieci
+DTSTAMP:20261214T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261222@kalendarz-smieci
+DTSTAMP:20261222T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:🗑️ Odbiór: bio kuchenne
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: bio kuchenne
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261223@kalendarz-smieci
+DTSTAMP:20261223T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🗑️ Odbiór: papier\, metale i tworzywa
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: papier\, metale i tworzywa
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smieci-20261228@kalendarz-smieci
+DTSTAMP:20261228T000000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:🗑️ Odbiór: zmieszane
+DESCRIPTION:Odbiór od 6:30 – wystaw pojemniki/worki wieczorem dzień wcz
+ eśniej.\nHarmonogram IV–XII 2026: https://lesznowola.pl/wp-content/uplo
+ ads/2026/03/Harmonogram-IV-XII-2026-Mysiadlo-Nowa-Wola-Stara-Iwiczna-Zamie
+ nie-Zgorzala.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Wystaw śmietniki: zmieszane
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
